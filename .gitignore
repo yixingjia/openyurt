@@ -3,6 +3,6 @@ _output
 .DS_Store
 gopath
 dockerbuild
-
+.gitmessage
 *.out
 logs
